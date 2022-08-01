@@ -1,0 +1,36 @@
+body
+{
+    font-family: 'Edu TAS Beginner',cursive;
+    background:honeydew;
+}
+.header_div
+{
+    background:khaki;
+    color: yellow;
+}
+.header_div p{
+    font-family:'Edu TAS Beginner',cursive;
+    color: turquoise;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+   font-family:'Edu TAS Beginner',cursive ;
+   margin-top: 30px;
+   width: 130px;
+   font-weight: bolder;
+   letter-spacing: 3px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: black;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: gainsboro;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(38, 136, 143);
+}
+
